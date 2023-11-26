@@ -1,1 +1,3 @@
-#!/bin/bash echo School
+#!/bin/bash
+echo "This school is so cool"
+ echo "School"
