@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 #!/bin/bash
 echo "This school is so cool"
  echo "School"
+=======
+#!/bin/bash echo School
+The schoolis open!
+>>>>>>> origin/update_script
